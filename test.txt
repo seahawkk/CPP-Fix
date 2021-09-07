@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-now in main 
-=======
 edit in production
->>>>>>> production
+
